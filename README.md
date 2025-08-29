@@ -1,16 +1,4 @@
-Perfect 👍 — I’ll merge everything into a **single, clean, easy-to-read `README.md` file**.
-This will include:
-
-* A short **project description** (under 350 chars).
-* The detailed documentation (features, tech stack, setup, usage, API, etc.).
-* Proper formatting for GitHub readability.
-
-Here’s your final **all-in-one README.md** 👇
-
----
-
-```markdown
-# TMMS – Travel Management Service (Spring Boot 3)
+TMMS – Travel Management Service (Spring Boot 3)
 
 **TMMS (Travel Management Service)** is a Spring Boot 3 application that enables employees to submit travel requisitions and reimbursements, while managers and admins can review, approve, or decline requests. It uses JWT-based authentication, Spring Security 6, JPA/Hibernate, and provides Swagger/OpenAPI 3.1 documentation.
 
